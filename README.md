@@ -4,9 +4,10 @@
 
 The Content Management Tool is a modern blogging application created using React.js for the frontend and Express.js for the backend. It allows users to create, edit, and publish their own blog posts. This README provides an overview of the project and its key features.
 
+<!-- 
 Watch a demo of the Project Management Tool in action 
 [![here](https://raw.githubusercontent.com/potdukhe12/Content-Management-Tool/main/Video-and-Screenshot/VideoPreview.png)](https://raw.githubusercontent.com/potdukhe12/Content-Management-Tool/main/Video-and-Screenshot/CMT.mp4).
-
+-->
 
 ## Screenshots
 
@@ -24,7 +25,11 @@ Watch a demo of the Project Management Tool in action
 
 ### Create/Write Your Blog
 
-<img src="https://raw.githubusercontent.com/potdukhe12/Content-Management-Tool/main/Video-and-Screenshot/WriteBlog.png" alt="Home Page" width="50%">
+<img src="https://raw.githubusercontent.com/potdukhe12/Content-Management-Tool/main/Video-and-Screenshot/WriteBlog.png" alt="WriteBlog" width="50%">
+
+### Edit a Blog
+
+<img src="https://raw.githubusercontent.com/potdukhe12/Content-Management-Tool/main/Video-and-Screenshot/EditBlog.png" alt="EditBlog" width="50%">
 
 ## Features
 
