@@ -24,7 +24,7 @@ Watch a demo of the Project Management Tool in action
 
 ### Create/Write Your Blog
 
-<img src="https://raw.githubusercontent.com/potdukhe12/Content-Management-Tool/main/Video-and-Screenshot/1_Home.png" alt="Home Page" width="50%">
+<img src="https://raw.githubusercontent.com/potdukhe12/Content-Management-Tool/main/Video-and-Screenshot/WriteBlog.png" alt="Home Page" width="50%">
 
 ## Features
 
@@ -38,11 +38,11 @@ Watch a demo of the Project Management Tool in action
 
 1. Clone the repository
    
-2. Install dependencies for both the frontend and backend
+2. Install dependencies for both the frontend and backend : `npm install`
    
-3. Start the backend server
+3. Start the backend server : `npm Start`
 
-4. Start the frontend development server
+4. Start the frontend development server : `npm Start`
 
 5. Visit `http://localhost:3000` in your web browser to access the application.
 
